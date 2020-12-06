@@ -62,7 +62,7 @@ The disparity values are in the range [0, 1] for most scenes,
 but up to 1.5 for some scenes.
 
 ### Scenes
-[GIF version page is here](./gif_scenes_page). (**Note** that there are many large size GIFs.)
+[**GIF version page is here**](./gif_scenes_page). (**Note** that there are many large size GIFs.)
 
 | Scene name    | Frames | Maximum disparity | RGB                                                | Disparity                                              |
 |---------------|--------|-------------------|----------------------------------------------------|--------------------------------------------------------|
