@@ -2,7 +2,7 @@
 **Takahiro Kinoshita** and **Satoshi Ono**  
 *Kagoshima University*  
 
-[**[Paper]**]()
+[**[Paper]**](https://arxiv.org/abs/2012.03021)
 [**[Code]**](https://github.com/mediaeng-lfv/LFV_Disparity_Estimation)
 [**[Dataset]**](https://ieee-dataport.org/open-access/sintel-4d-light-field-videos-dataset)
 
@@ -31,7 +31,7 @@ depth estimation accuracy in noisy regions.
 
 ---
 
-## Our Dataset
+## Our Dataset [[available at IEEE DataPort]](https://ieee-dataport.org/open-access/sintel-4d-light-field-videos-dataset)  
 ![GIF](./images/dataset.gif)  
 
 In order to evaluate the performance of 4D LFVs depth estimation methods, 
